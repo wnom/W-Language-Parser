@@ -1,9 +1,7 @@
 William Norman
 428002797
 314-500
-
-For my commentary I'm going to explain what my syntax design choices for the W language were and how I 
-implemented them.  
+  
 	So, I'll start at the top and say I designed that every statement must end with a semicolon 
 exluding brackets for the blocks and if/while statements.  The variable declaration and assign statements are similar syntax to C.
 For If statements I implemented so that they can be written with brackets and a block of statements of just a single statement and 
