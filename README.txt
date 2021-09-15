@@ -16,3 +16,6 @@ in the manner given by the expression parsing example starting from least preced
 And at the end included all of my literal statements.
 	In conclusion, this was my design choice for my W language and I believe I made it prety close to a higher level language.
 Anyways, thanks for reading this if you got all the way through.  This project was really cool and I thoroughly enjoyed it.
+
+
+Norman, William C. (2021, April), W-Language-Parser, Texas A&M University
